@@ -1,6 +1,14 @@
+import React from 'react'
 
-export default function DashboardHome(){
-    return(
-        <h2>Analytical Dashboard</h2>
-    );
+
+function Dashboard() {
+  return (
+    <div>
+        <h2>
+            hii
+        </h2>
+    </div>
+  )
 }
+
+export default Dashboard
